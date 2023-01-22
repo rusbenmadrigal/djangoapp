@@ -1,3 +1,1 @@
 # djangoweb
-# djangoapp
-# djangoapp
