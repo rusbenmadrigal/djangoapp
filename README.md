@@ -1,1 +1,1 @@
-# djangoweb
+# djangoweb (Legacy)
